@@ -35,6 +35,7 @@ A comprehensive analysis of workforce disparities, unemployment rates by demogra
 
 ## 📑 Conclusion
 - TBA
+- ![EEOC Outcomes](images/eeoc_outcomes.png)
 
 ## 💡 Future Work
 - Further analysis on how changes in policies could improve employment accessibility.
