@@ -1,0 +1,29 @@
+📂 Workforce-Disparities-Analysis
+│   ├── 📄 README.md
+│   ├── 📄 LICENSE
+│   ├── 📄 .gitignore
+│   ├── 📂 data/
+│   │   ├── raw_data.csv
+│   │   ├── cleaned_data.csv
+│   ├── 📂 scripts/
+│   │   ├── data_cleaning.ipynb
+│   │   ├── data_analysis.ipynb
+│   │   ├── sql_queries.sql
+│   ├── 📂 dashboards/
+│   │   ├── PowerBI_Report.pbix
+│   │   ├── Tableau_Workbook.twb
+│   ├── 📂 visualizations/
+│   │   ├── demographic_unemployment.png
+│   │   ├── eeoc_outcomes.png
+│   ├── 📂 reports/
+│   │   ├── Project_Report.pdf
+│   │   ├── Presentation_Slides.pptx
+│   ├── 📂 references/
+│   │   ├── EEOC_Statistics.pdf
+│   │   ├── Title_VII_Guidelines.pdf
+│   ├── 📂 notebooks/
+│   │   ├── EDA_and_Cleaning.ipynb
+│   │   ├── Regression_Analysis.ipynb
+│   └── 📂 images/
+│       ├── project_cover_image.png
+│       ├── dashboard_screenshot.png
