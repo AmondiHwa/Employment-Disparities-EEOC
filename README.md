@@ -16,7 +16,7 @@ A comprehensive analysis of workforce disparities, unemployment rates by demogra
 - **`visualizations/`**: Visual outputs from the analysis.
 - **`reports/`**: Final project report and presentation slides.
 - **`references/`**: Supporting documents and reference materials.
-- **`collab/`**: Google Collab containing EDA and advanced analysis.
+- **`colab/`**: Google Colab containing EDA and advanced analysis.
 
 ## 📊 Key Findings
 - TBA
